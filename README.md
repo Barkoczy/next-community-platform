@@ -7,7 +7,7 @@ Free and open-source decentralized community platform for people based on modern
   * Setup project
     * Project generation
     * Tailwind CSS setup
-    * Linting / Formatting confi
+    * Linting / Formatting config
       * ESLint
       * Prettier
       * AirBNB setup
